@@ -1,0 +1,8 @@
+site_name: py4
+site_description: python deploy test for Tanuu
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

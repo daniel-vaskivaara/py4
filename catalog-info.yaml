@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "py4"
+  description: "python deploy test for Tanuu"
+  annotations:
+    github.com/project-slug: tanuudemo/py4
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: repository
+  lifecycle: experimental
+  owner: "acme"
